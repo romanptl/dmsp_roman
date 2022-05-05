@@ -1,6 +1,6 @@
-package com.roman.pitula_lab4
+package com.oleg.salesman_lab4
 
-import com.roman.{Edge, Graph}
+import com.oleg.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
 import scala.util.Random
