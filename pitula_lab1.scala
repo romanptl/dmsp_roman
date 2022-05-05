@@ -1,4 +1,4 @@
-package com.roman.prim_lab1
+package com.roman_lab1
 
 
 import com.roman.{Edge, Graph}
