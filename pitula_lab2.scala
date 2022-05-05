@@ -1,4 +1,4 @@
-package com.roman.postman_lab2
+package com.roman_lab2
 
 import com.roman.{Edge, Graph}
 
