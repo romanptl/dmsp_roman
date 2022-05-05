@@ -1,7 +1,7 @@
-package com.oleg.isomorphism_lab5
+package com.roman.pitula_lab5
 
 
-import com.oleg.{Edge, Graph}
+import com.roman.{Edge, Graph}
 
 class Isomorphism(isomorphicGraph: Graph) {
   var general: Boolean = false
