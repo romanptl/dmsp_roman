@@ -1,4 +1,4 @@
-package com.roman_lab2
+package com.roman.pitula_lab2
 
 import com.roman.{Edge, Graph}
 
