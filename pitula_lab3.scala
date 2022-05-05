@@ -1,4 +1,4 @@
-package com.roman.streams_lab3
+package com.roman_lab3
 
 import scala.collection.mutable.ListBuffer
 import scala.io.Source
